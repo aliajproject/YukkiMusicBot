@@ -1,3 +1,9 @@
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/aliajproject/YukkiMusicbot&branch=app.py&name=yukkimusicbot">
+  <img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg">
+</a>
+
+
+
 <img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
 
 # Yukki Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
